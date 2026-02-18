@@ -1,0 +1,18 @@
+# ===== Sandrone Desktop Pet - Dependencies =====
+# Python 3.10+ required
+
+# --- Core UI ---
+PyQt6>=6.5
+PyQt6-WebEngine>=6.5
+
+# --- AI / LLM ---
+requests>=2.28
+
+# --- TTS (GPT-SoVITS) ---
+gradio_client>=0.7
+
+# --- System Monitor ---
+psutil>=5.9
+
+# --- Web Search ---
+duckduckgo_search>=4.0
