@@ -234,8 +234,8 @@ else:
 
 - [x] **v1.0** — 基礎 Ollama 文字對話一鍵下載|(https://github.com/penqmark/Ollama-Flow-Commander)
 - [x] **v2.0** — 2D形象及天氣,電腦狀態,搜尋系統|(https://github.com/penqmark/SystemSoul)
-- [x] **v3.0** — 意圖判斷 + 雙重人格 + 搜尋功能(優化)
-- [x] **v3.1** — 3D MMD 模型動作整合
+- [x] **v3.0** — 3D MMD 模型動作整合
+- [x] **v3.1** — 意圖判斷 + 雙重人格 + 搜尋功能(優化)
 - [x] **v4.0** — GPT-SoVITS 語音合成 ← *（目前版本）*
 - [ ] **v5.0** — Flask + Ngrok 網頁端 & 手機遠端控制
 - [ ] **v6.0** — 視訊鏡頭整合（表情辨識 & 互動反應）
