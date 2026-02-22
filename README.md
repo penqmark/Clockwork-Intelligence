@@ -298,7 +298,7 @@ else:
 | v1.0 | 基礎對話（Ollama + 天氣） | `versions/v1.0/main_v1.py` |
 | v2.0 | 意圖判斷 + 雙重人格 + 搜尋 | `versions/v2.0/main_v2.py` |
 | v3.0 | 3D 模型動作整合 | `versions/v3.0/main_v3.py` + `viewer_v3.html` |
-| v4.0 | TTS 語音 + 深度思考 | 根目錄 `main.py`（目前版本） |
+| v4.0 | TTS 語音 + 深度思考 + 網路地理位置判斷| 根目錄 `main.py`（目前版本） |
 
 ---
 
